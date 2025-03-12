@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547495275793",
+    "project_id": "addabazz-10c30",
+    "storage_bucket": "addabazz-10c30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547495275793:android:5205cd86d757b2fc7470b0",
+        "android_client_info": {
+          "package_name": "com.rubayat.addabuzz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkYY9pI8m346COSusUasl3-bgPe4_Uk3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
