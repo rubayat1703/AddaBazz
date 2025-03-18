@@ -88,7 +88,15 @@ class Loginactivity : AppCompatActivity() {
              }
         }
 
+        loginBinding.register.setOnClickListener {
+            val intent = Intent(this,SignUp::class.java)
+            startActivity(intent)
+        }
+        loginBinding.forgot.setOnClickListener {
+           val intent = Intent(this,ForgotPass::class.java)
+            startActivity(intent)
+        }
+        }
+
     }
 
-
-    }
